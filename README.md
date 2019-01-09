@@ -1,2 +1,2 @@
 # MyPy
-Python repository
+My Python repositiry
